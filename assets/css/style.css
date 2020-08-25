@@ -246,9 +246,12 @@ button {
 
 
 .image6 {
-    width: 100%;
+    width: 80%;
     /* height: 60vh; */
+    margin-left: 20%;
 }
+
+
 
 
 .paddingleft {
@@ -302,10 +305,14 @@ video {
 }
 
 .image7 {
-    width: 100%;
+    width: 80%;
     /* height: 60vh; */
+    margin-left: 5%;
 }
 
+.marginleftdiv {
+    margin-left: 20%;
+}
 
 
 .grid {
